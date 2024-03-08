@@ -1,0 +1,14 @@
+{
+  "name": "nodeweb3",
+  "version": "1.0.0",
+  "description": "Using for tea.",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "the-ultimate-testing-package": "^1.0.0"
+  }
+}
